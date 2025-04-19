@@ -35,15 +35,13 @@ RoutePlannerProject/
 │   ├── Location.java                      # Data class for a location
 │   ├── Route.java                         # Data class for a route
 │   ├── Graph.java                         # Represents the graph using adjacency list
-│   ├── DijkstraAlgorithm.java             # Implements Dijkstra’s algorithm
+│   ├── DijkstraAlgorithm.java             # Implements Dijkstra's algorithm
 │   ├── Pair.java                          # Implements Pair class
 │   ├── RoutePlanner.java                  # Main logic for loading data and planning routes
 │   └── ReportGenerator.java               # Generates route reports
 │
-├── routePlannerSchema.sql                             # SQL script to create tables
-├── README.md                              # Project documentation
-
-
+├── schema.sql                             # SQL script to create tables
+└── README.md                              # Project documentation
 
 ---
 
