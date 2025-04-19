@@ -17,14 +17,13 @@ A Java-based Route Planning System that calculates the **shortest delivery route
 
 ## 🛠️ Tech Stack
 
-| Component      | Technology         |
-|----------------|--------------------|
-| Language       | Java               |
-| IDE            | IntelliJ IDEA      |
-| Database       | MySQL              |
-| Database Access| JDBC               |
-| Data Structure | Adjacency List     |
-| Algorithm      | Dijkstra’s Algorithm |
+### 🧩 Technologies Used
+
+- **Java** — main programming language
+- **MySQL** — database to store routes and locations
+- **JDBC** — for database connectivity
+- **Dijkstra’s Algorithm** — shortest path calculation
+- **IntelliJ IDEA** — IDE used for development
 
 ---
 
