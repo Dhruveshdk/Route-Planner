@@ -95,59 +95,14 @@ String password = "YOUR_PASSWORD";
 
 
 Sample Output:
-Loading Route Planner System...
-Database connected successfully.
-Database connected successfully.
-Maximum location ID found: 10
-Graph initialized with 11 vertices.
-Database connected successfully.
-Graph populated with 36 edges.
+Enter source location: A
+Enter destination location: D
 
-AVAILABLE LOCATIONS:
-----------------------------------------
-ID    | Location Name                 
-----------------------------------------
-1     | Main Distribution Center      
-2     | North Warehouse               
-3     | South Warehouse               
-4     | Downtown Store                
-5     | Mall Store                    
-6     | Airport Pickup Point          
-7     | University Campus             
-8     | Hospital Supply               
-9     | Industrial Park               
-10    | Residential Hub               
-----------------------------------------
+Shortest path: A → B → D
+Total distance: 18.50 km
+Estimated travel time: 30 minutes
+Estimated delivery cost: $9.25
 
-Enter source location ID:
-1
-Enter destination location ID:
-7
-
-Calculating optimal route...
-
---- ROUTE FOUND ---
-Shortest distance from Main Distribution Center to University Campus is 16 km
-Path: Main Distribution Center -> Downtown Store -> University Campus
-Database connected successfully.
-
-============= ROUTE REPORT =============
-From: Main Distribution Center
-To: University Campus
-Date: 2025-04-20 02:13:21
----------------------------------------
-Route Details:
-Main Distribution Center → Downtown Store → University Campus
----------------------------------------
-Total Distance: 16.50 km
-Estimated Travel Time: 33 min
-Estimated Delivery Cost: $8.25
-=======================================
-
-Do you want to export this report to a file? (y/n)
-y
-Database connected successfully.
-Report successfully exported to: route_report_1_to_7.txt
 
 🧑‍💻 Authors
 Dhruvesh Kamble
