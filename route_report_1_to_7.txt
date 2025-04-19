@@ -1,0 +1,12 @@
+============= ROUTE REPORT =============
+From: Main Distribution Center
+To: University Campus
+Date: 2025-04-20 02:13:25
+---------------------------------------
+Route Details:
+Main Distribution Center → Downtown Store → University Campus
+---------------------------------------
+Total Distance: 16.50 km
+Estimated Travel Time: 33 min
+Estimated Delivery Cost: $8.25
+=======================================
