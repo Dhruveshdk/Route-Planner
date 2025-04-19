@@ -27,24 +27,6 @@ A Java-based Route Planning System that calculates the **shortest delivery route
 
 ---
 
-## 🗃️ Project Structure
-RoutePlannerProject/
-│
-├── src/
-│   ├── DBConnection.java                  # MySQL database connector
-│   ├── Location.java                      # Data class for a location
-│   ├── Route.java                         # Data class for a route
-│   ├── Graph.java                         # Represents the graph using adjacency list
-│   ├── DijkstraAlgorithm.java             # Implements Dijkstra's algorithm
-│   ├── Pair.java                          # Implements Pair class
-│   ├── RoutePlanner.java                  # Main logic for loading data and planning routes
-│   └── ReportGenerator.java               # Generates route reports
-│
-├── schema.sql                             # SQL script to create tables
-└── README.md                              # Project documentation
-
----
-
 ## 🧠 How It Works
 
 1. **Database Setup**
