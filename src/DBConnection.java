@@ -6,7 +6,7 @@ public class DBConnection {
 
     private static final String URL = "jdbc:mysql://localhost:3306/RoutePlanner_db";
     private static final String USER = "root"; // Replace with your username
-    private static final String PASSWORD = "Dhruvdk@03"; // Replace with your password
+    private static final String PASSWORD = "****"; // Replace with your password
 
     public static Connection getConnection() {
         Connection connection = null;
